@@ -1,0 +1,5 @@
+print("FTP download concepts")
+print("ASCII transfer commonly uses retrlines().")
+print("Binary transfer commonly uses retrbinary().")
+print("FTP sends credentials and data without modern transport encryption.")
+print("For new systems, prefer HTTPS or SFTP and use only authorized servers.")

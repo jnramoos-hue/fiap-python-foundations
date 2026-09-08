@@ -1,0 +1,2 @@
+# No external dependencies are required.
+# socket and ftplib are included in the Python standard library.
